@@ -11,7 +11,7 @@ with open(os.path.join(here, 'CHANGES.txt')) as f:
 
 setup(
     name='PakietDemo',
-    version=1.6.0,
+    version="1.7.0" ,
     description='Aplikacja: pakiet demonstracyjny',
     long_description=README + '\n\n' + CHANGES,
     classifiers=[
